@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&family=PT+Serif:ital,wght@0,700;1,700&display=swap');
+
+
+#titulo-1,
+#titulo-2,
+#titulo-3,
+#titulo-4 { background: rgb(177,196,195);
+            background: linear-gradient(90deg, rgba(177,196,195,1) 0%, rgba(170,176,170,0.3169642857142857) 0%, rgba(185,212,205,1) 0%, rgba(166,165,157,0) 100%, rgba(153,168,165,0) 100%);
+            justify-content: center;
+            display: flex;
+            margin: auto;
+            padding: auto;
+            font-family: 'Lora', serif;
+            font-family: 'PT Serif', serif;}
+
